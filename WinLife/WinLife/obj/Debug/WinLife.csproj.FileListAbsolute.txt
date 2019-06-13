@@ -1,0 +1,15 @@
+C:\Users\devintreichel\source\repos\WinLife\WinLife\bin\Debug\WinLife.exe.config
+C:\Users\devintreichel\source\repos\WinLife\WinLife\bin\Debug\WinLife.exe
+C:\Users\devintreichel\source\repos\WinLife\WinLife\bin\Debug\WinLife.pdb
+C:\Users\devintreichel\source\repos\WinLife\WinLife\obj\Debug\WinLife.csprojAssemblyReference.cache
+C:\Users\devintreichel\source\repos\WinLife\WinLife\obj\Debug\MainWindow.g.cs
+C:\Users\devintreichel\source\repos\WinLife\WinLife\obj\Debug\App.g.cs
+C:\Users\devintreichel\source\repos\WinLife\WinLife\obj\Debug\WinLife_MarkupCompile.cache
+C:\Users\devintreichel\source\repos\WinLife\WinLife\obj\Debug\WinLife_MarkupCompile.lref
+C:\Users\devintreichel\source\repos\WinLife\WinLife\obj\Debug\MainWindow.baml
+C:\Users\devintreichel\source\repos\WinLife\WinLife\obj\Debug\WinLife.g.resources
+C:\Users\devintreichel\source\repos\WinLife\WinLife\obj\Debug\WinLife.Properties.Resources.resources
+C:\Users\devintreichel\source\repos\WinLife\WinLife\obj\Debug\WinLife.csproj.GenerateResource.cache
+C:\Users\devintreichel\source\repos\WinLife\WinLife\obj\Debug\WinLife.csproj.CoreCompileInputs.cache
+C:\Users\devintreichel\source\repos\WinLife\WinLife\obj\Debug\WinLife.exe
+C:\Users\devintreichel\source\repos\WinLife\WinLife\obj\Debug\WinLife.pdb

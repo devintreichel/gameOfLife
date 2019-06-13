@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinLife", "WinLife\WinLife.csproj", "{A34C4F0A-FEC6-448C-9422-14AC1CA3E9CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A34C4F0A-FEC6-448C-9422-14AC1CA3E9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34C4F0A-FEC6-448C-9422-14AC1CA3E9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34C4F0A-FEC6-448C-9422-14AC1CA3E9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34C4F0A-FEC6-448C-9422-14AC1CA3E9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37AAF4CC-5E91-404C-8B4E-C9BA9FA26231}
+	EndGlobalSection
+EndGlobal
